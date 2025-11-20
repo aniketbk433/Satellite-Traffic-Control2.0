@@ -1,6 +1,6 @@
 # Satellite-Traffic-Control2.0
 # Orbital Traffic Center
-Orbital Traffic Center — Premium Version
+Orbital Traffic Center
 
 Orbital Traffic Center-Premium Version is a comprehensive, real-time satellite visualization and autonomous space-traffic management simulator designed to explore the emerging challenges in navigating increasingly crowded Earth orbits. It ties together scientific modeling, interactive visualization, and adaptive AI behavior in one cohesive Python application. The result is a tool that is educational enough for students, flexible sufficient for researchers, and engaging enough for hobbyists fascinated by orbital mechanics.
 
