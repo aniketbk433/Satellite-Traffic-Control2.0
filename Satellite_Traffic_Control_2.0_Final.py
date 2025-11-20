@@ -1,5 +1,5 @@
 """
-Orbital Traffic Center — Premium Edition (Option B)
+Orbital Traffic Center
 A single-file, runnable Python program.
 Features:
  - Tkinter GUI (left control panel, right Matplotlib 3D + 2D views)
@@ -753,3 +753,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
