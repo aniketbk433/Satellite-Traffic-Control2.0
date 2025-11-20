@@ -16,8 +16,6 @@ Notes before running:
  - Requires: numpy, matplotlib, pillow (PIL), pandas (optional for RL CSV), pyttsx3 (optional for TTS)
  - Place an 'earth_texture.jpg' in the same folder for full texture. If missing, the code draws a shaded Earth.
  - This file intentionally keeps physics simple (Keplerian, no perturbations) so it's easy to run.
-
-Usage: python orbital_traffic_center_premium.py
 """
 
 import os
@@ -753,4 +751,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
