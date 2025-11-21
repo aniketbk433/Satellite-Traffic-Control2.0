@@ -2,7 +2,7 @@
 # Orbital Traffic Center
 Orbital Traffic Center
 
-Orbital Traffic Center-Premium Version is a comprehensive, real-time satellite visualization and autonomous space-traffic management simulator designed to explore the emerging challenges in navigating increasingly crowded Earth orbits. It ties together scientific modeling, interactive visualization, and adaptive AI behavior in one cohesive Python application. The result is a tool that is educational enough for students, flexible sufficient for researchers, and engaging enough for hobbyists fascinated by orbital mechanics.
+Orbital Traffic Center is a comprehensive, real-time satellite visualization and autonomous space-traffic management simulator designed to explore the emerging challenges in navigating increasingly crowded Earth orbits. It ties together scientific modeling, interactive visualization, and adaptive AI behavior in one cohesive Python application. The result is a tool that is educational enough for students, flexible sufficient for researchers, and engaging enough for hobbyists fascinated by orbital mechanics.
 
 At its core, the system maintains a fully dynamic 3D representation of Earth by wrapping a high-resolution texture map onto a rotating sphere. Satellites orbit this globe in real time using numerically propagated Keplerian elements. Each object leaves behind a configurable trail that displays recent motion, allowing for intuitive understanding of eccentricity, inclination, resonance, and long-term orbital patterns. A complementary 2D plotting view shows ground tracks as they shift across Earth's surface, creating a layered spatial understanding of how satellites move relative to fixed geography.
 
